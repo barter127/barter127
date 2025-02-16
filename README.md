@@ -1,4 +1,4 @@
-<h1 align="center">Hello, hello hello I'm Heather Carter</h1>
+<h1 align="center">Hey hey I'm Heather Carter</h1>
 <h3 align="center">I'm a student exploring her love for graphics programming</h3>
 
 - 🌱 I’m currently learning **OpenGL**
