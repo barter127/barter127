@@ -1,4 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello, hello hello I'm Heather Carter</h1>
+<h3 align="center">I'm a student exploring her love for graphics programming</h3>
+
+- 🌱 I’m currently learning **OpenGL**
+
+- 📫 How to reach me **heathercarter2006@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
