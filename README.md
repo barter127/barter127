@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1250&pause=1000&color=00B3F7&center=true&multiline=true&width=435&lines=Hey%2C+I'm+Heather;Games+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=00B3F7&multiline=true&width=435&lines=Hey%2C+I'm+Heather;Games+Programmer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **OpenGL**
 
@@ -13,7 +13,11 @@
 <!--
      Skills
 -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=cpp, c, c#, unity, unreal, github)](https://skillicons.dev)
+<h2>Languages & Engines:</h2>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal&perline=3" />
+  </a>
 </p>
+
