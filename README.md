@@ -8,11 +8,6 @@
 - 🌱 I’m currently learning **OpenGL**
 
 - 📫 How to reach me **heathercarter2006@outlook.com**
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/heather carter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heather carter" height="30" width="40" /></a>
-</p>
 <h2 align="left">Languages & Software:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,4 +17,8 @@
   </a>
 </p>
 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/heather carter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heather carter" height="30" width="40" /></a>
+</p>
 
