@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Heather+Carter" alt="Typing SVG" /></a> <br \>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=Games+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1250&pause=1000&color=00B3F7&center=true&multiline=true&width=435&lines=Hey%2C+I'm+Heather;Games+Programmer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **OpenGL**
 
