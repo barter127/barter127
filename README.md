@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Heather+Carter)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Heather+Carter" alt="Typing SVG" /></a>
 <h3 align="center">I'm a Unity C# programmer exploring her love for graphics programming</h3>
 
 - 🌱 I’m currently learning **OpenGL**
