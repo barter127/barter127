@@ -1,4 +1,4 @@
-<h1 align="center">Hey hey, I'm Heather Carter</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey, I'm Heather)](https://git.io/typing-svg)</h1>
 <h3 align="center">I'm a Unity C# programmer exploring her love for graphics programming</h3>
 
 - 🌱 I’m currently learning **OpenGL**
