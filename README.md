@@ -16,5 +16,5 @@
 -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=c++, c, c#, unity, unreal, github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp, c, c#, unity, unreal, github)](https://skillicons.dev)
 </p>
