@@ -18,7 +18,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal&perline=3" />
     <br>
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github,visualstudio" />
   </a>
 </p>
 
