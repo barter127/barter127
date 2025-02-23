@@ -9,6 +9,11 @@
 - 🌱 I’m currently learning **OpenGL**
 
 - 📫 How to reach me **heathercarter2006@outlook.com**
+
+<div align="left">
+  <img src="Unity_Ky3UMA3mKE.gif" width="400">
+</div>
+
 <h2 align="left">Languages & Software:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
