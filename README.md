@@ -10,9 +10,13 @@
 
 - 📫 How to reach me **heathercarter2006@outlook.com**
 <h2 align="left">Portfolio:</h2>
-<div align="left">
-  <img src="HookedExample.gif" width="400">
-  <img src="ToTheMoonExample.gif" width="400">
+<div align="centre">
+  <a href="https://github.com/barter127/Hooked-Game">
+    <img src="HookedExample.gif" width="400">
+  </a>
+  <a href="https://github.com/barter127/ToTheMoonGame">
+    <img src="ToTheMoonExample.gif" width="400">
+  </a>
 </div>
 
 <h2 align="left">Languages & Software:</h2>
