@@ -9,6 +9,20 @@
 - 🌱 I’m currently learning **OpenGL**
 
 - 📫 How to reach me **heathercarter2006@outlook.com**
+
+
+
+<h2 align="left">Languages & Software:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal&perline=3" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=github,visualstudio" />
+  </a>
+</p>
+
+
+
 <h2 align="left">Portfolio:</h2>
 <div align="centre">
   <a href="https://github.com/barter127/Hooked-Game">
@@ -19,14 +33,7 @@
   </a>
 </div>
 
-<h2 align="left">Languages & Software:</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal&perline=3" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=github,visualstudio" />
-  </a>
-</p>
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
