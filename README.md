@@ -1,7 +1,12 @@
-<h1 align="left">Hey, I'm Heather Carter 👋</h1>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=3000&color=36BCF7FF&multiline=true&width=435&lines=Games+Programmer">
-</a>
+<div align="left">
+  <h1>Hey, I'm Heather Carter 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=3000&color=36BCF7FF&multiline=true&width=435&lines=Games+Programmer">
+  </a>
+
+  **I want to make industry defining games** </br>
+  **I don't care how many all nighters it takes me**
+</div>
 
 
 
@@ -32,9 +37,9 @@
 
 - 📖 I'm reading: Computer Graphics Through OpenGL®: From Theory to Experiments
 
-- 📫 How to reach me **heathercarter2006@outlook.com**
+- 🎮 My favourite game is Cyberpunk 2077
 
-I want to industry defining games.
+- 📫 How to reach me **heathercarter2006@outlook.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
