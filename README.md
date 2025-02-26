@@ -5,13 +5,6 @@
 
 
 
-
-- 🌱 I’m currently learning **OpenGL**
-
-- 📫 How to reach me **heathercarter2006@outlook.com**
-
-
-
 <h2 align="left">Languages & Software:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -34,6 +27,14 @@
 </div>
 
 
+
+- 🌱 I’m currently learning **OpenGL**
+
+- 📖 I'm reading: Computer Graphics Through OpenGL®: From Theory to Experiments
+
+- 📫 How to reach me **heathercarter2006@outlook.com**
+
+I want to industry defining games.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
