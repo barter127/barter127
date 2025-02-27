@@ -33,6 +33,7 @@
 
 
 <h2 align="left">About Me:</h2>
+
 - 🌱 I’m currently learning **OpenGL**
 
 - 📖 I'm reading: Computer Graphics Through OpenGL®: From Theory to Experiments
