@@ -32,7 +32,7 @@
   </a>
 
   <a href="https://github.com/barter127/Isaac">
-      <img src="IsaacRecreation.gif" width="400">
+      <img src="IsaacRecreationExample.gif" width="400">
     </a>
   
   <a href="https://github.com/barter127/ToTheMoonGame">
