@@ -39,11 +39,13 @@
 
 <h2 align="left">About Me:</h2>
 
+- 🎓 Student of **University of Staffordshire**
+
 - 🌱 I’m currently learning **OpenGL**
 
-- 📖 I'm reading: Computer Graphics Through OpenGL®: From Theory to Experiments
+- 📖 I'm reading: **Computer Graphics Through OpenGL®: From Theory to Experiments**
 
-- 🎮 My favourite game is Cyberpunk 2077
+- 🎮 My favourite game is **Cyberpunk 2077**
 
 - 📫 How to reach me **heathercarter2006@outlook.com**
 
