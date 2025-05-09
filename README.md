@@ -13,7 +13,7 @@
 <h2 align="left">Languages & Software:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,unity,unreal&perline=3" />
     <br>
     <img src="https://skillicons.dev/icons?i=github,visualstudio" />
   </a>
