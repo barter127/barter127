@@ -45,9 +45,7 @@
 
 - 🎓 Student of **University of Staffordshire**
 
-- 🌱 I’m currently learning **OpenGL**
-
-- 📖 I'm reading: **Computer Graphics Through OpenGL®: From Theory to Experiments**
+- 🌱 I’m currently learning **DirectX 12**
 
 - 🎮 My favourite game is **Cyberpunk 2077**
 
