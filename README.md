@@ -45,7 +45,7 @@
 
 - 🎓 Student of **University of Staffordshire**
 
-- 🌱 I’m currently learning **DirectX 12**
+- 🌱 I’m currently learning **DirectX 11**
 
 - 🎮 My favourite game is **Cyberpunk 2077**
 
